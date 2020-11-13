@@ -1,0 +1,9 @@
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\bin\Debug\netcoreapp3.1\EasyPyment.Common.deps.json
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\bin\Debug\netcoreapp3.1\EasyPyment.Common.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\bin\Debug\netcoreapp3.1\EasyPyment.Common.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\obj\Debug\netcoreapp3.1\EasyPyment.Common.csprojAssemblyReference.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\obj\Debug\netcoreapp3.1\EasyPyment.Common.AssemblyInfoInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\obj\Debug\netcoreapp3.1\EasyPyment.Common.AssemblyInfo.cs
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\obj\Debug\netcoreapp3.1\EasyPyment.Common.csproj.CoreCompileInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\obj\Debug\netcoreapp3.1\EasyPyment.Common.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPyment.Common\obj\Debug\netcoreapp3.1\EasyPyment.Common.pdb

@@ -1,0 +1,9 @@
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\bin\Debug\netcoreapp3.1\EasyPayment.Domain.deps.json
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\bin\Debug\netcoreapp3.1\EasyPayment.Domain.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\bin\Debug\netcoreapp3.1\EasyPayment.Domain.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\obj\Debug\netcoreapp3.1\EasyPayment.Domain.csprojAssemblyReference.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\obj\Debug\netcoreapp3.1\EasyPayment.Domain.AssemblyInfoInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\obj\Debug\netcoreapp3.1\EasyPayment.Domain.AssemblyInfo.cs
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\obj\Debug\netcoreapp3.1\EasyPayment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\obj\Debug\netcoreapp3.1\EasyPayment.Domain.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Domain\obj\Debug\netcoreapp3.1\EasyPayment.Domain.pdb
