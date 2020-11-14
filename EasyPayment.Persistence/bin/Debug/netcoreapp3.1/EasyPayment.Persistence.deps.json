@@ -1093,6 +1093,7 @@
       "EasyPayment.Application/1.0.0": {
         "dependencies": {
           "EasyPayment.Domain": "1.0.0",
+          "EasyPyment.Common": "1.0.0",
           "FluentValidation.AspNetCore": "9.3.0",
           "MediatR": "9.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
@@ -1110,6 +1111,11 @@
       "EasyPayment.Domain/1.0.0": {
         "runtime": {
           "EasyPayment.Domain.dll": {}
+        }
+      },
+      "EasyPyment.Common/1.0.0": {
+        "runtime": {
+          "EasyPyment.Common.dll": {}
         }
       }
     }
@@ -1847,6 +1853,11 @@
       "sha512": ""
     },
     "EasyPayment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyPyment.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

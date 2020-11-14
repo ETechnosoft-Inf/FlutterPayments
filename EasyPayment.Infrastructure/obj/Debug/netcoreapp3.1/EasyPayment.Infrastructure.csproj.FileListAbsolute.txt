@@ -1,0 +1,16 @@
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Infrastructure.deps.json
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Infrastructure.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Infrastructure.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Application.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Domain.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPyment.Common.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Application.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPayment.Domain.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\bin\Debug\netcoreapp3.1\EasyPyment.Common.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.AssemblyInfo.cs
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.csproj.CopyComplete
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Infrastructure\obj\Debug\netcoreapp3.1\EasyPayment.Infrastructure.pdb

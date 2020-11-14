@@ -12,3 +12,5 @@ C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Persistence\bin\Debug
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Persistence\bin\Debug\netcoreapp3.1\EasyPayment.Domain.pdb
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Persistence\obj\Debug\netcoreapp3.1\EasyPayment.Persistence.csproj.CopyComplete
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Persistence\obj\Debug\netcoreapp3.1\EasyPayment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Persistence\bin\Debug\netcoreapp3.1\EasyPyment.Common.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment.Persistence\bin\Debug\netcoreapp3.1\EasyPyment.Common.pdb

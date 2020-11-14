@@ -9,10 +9,10 @@ namespace EasyPyment.Common.Models.ResponseModels
     {
         public string status { get; set; }
         public string message { get; set; }
-        public InitiateDetails data { get; set; }
+        public InitiatResponseDetails data { get; set; }
     }
 
-    public class InitiateDetails
+    public class InitiatResponseDetails
     {
         public string link { get; set; }
     }

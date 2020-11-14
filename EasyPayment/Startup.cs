@@ -1,11 +1,18 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
+using EasyPayment.Application.Handlers.Commands;
+using EasyPayment.Application.Interfaces;
+using EasyPayment.Infrastructure.Services;
+using EasyPayment.Persistence;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,7 +33,11 @@ namespace EasyPayment
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddMediatR(typeof(RegisterAppCommand).GetTypeInfo().Assembly);
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "EasyPayment Services", Version = "v1" }); });
+            var conString = Configuration.GetValue<string>("DefaultConnection");
+            services.AddTransient<IHttpClientHelper, HttpClientServices>();
+            services.AddDbContext<IEasyPaymentDbContext, AppDbContext>(options => options.UseSqlServer(conString));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

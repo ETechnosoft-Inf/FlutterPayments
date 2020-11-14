@@ -1627,6 +1627,16 @@
         "runtime": {
           "bin/placeholder/EasyPayment.Domain.dll": {}
         }
+      },
+      "EasyPyment.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EasyPyment.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyPyment.Common.dll": {}
+        }
       }
     }
   },
@@ -5968,11 +5978,17 @@
       "type": "project",
       "path": "../EasyPayment.Domain/EasyPayment.Domain.csproj",
       "msbuildProject": "../EasyPayment.Domain/EasyPayment.Domain.csproj"
+    },
+    "EasyPyment.Common/1.0.0": {
+      "type": "project",
+      "path": "../EasyPyment.Common/EasyPyment.Common.csproj",
+      "msbuildProject": "../EasyPyment.Common/EasyPyment.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "EasyPayment.Domain >= 1.0.0",
+      "EasyPyment.Common >= 1.0.0",
       "FluentValidation.AspNetCore >= 9.3.0",
       "MediatR >= 9.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
@@ -6020,6 +6036,9 @@
           "projectReferences": {
             "C:\\Users\\Superdelight\\source\\repos\\EasyPayment\\EasyPayment.Domain\\EasyPayment.Domain.csproj": {
               "projectPath": "C:\\Users\\Superdelight\\source\\repos\\EasyPayment\\EasyPayment.Domain\\EasyPayment.Domain.csproj"
+            },
+            "C:\\Users\\Superdelight\\source\\repos\\EasyPayment\\EasyPyment.Common\\EasyPyment.Common.csproj": {
+              "projectPath": "C:\\Users\\Superdelight\\source\\repos\\EasyPayment\\EasyPyment.Common\\EasyPyment.Common.csproj"
             }
           }
         }

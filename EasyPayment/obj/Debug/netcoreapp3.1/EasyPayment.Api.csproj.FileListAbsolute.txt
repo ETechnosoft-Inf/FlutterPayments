@@ -73,6 +73,17 @@ C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Application.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Domain.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPyment.Common.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Application.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPyment.Common.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Domain.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Persistence.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Persistence.pdb
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Infrastructure.dll
+C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\bin\Debug\netcoreapp3.1\EasyPayment.Infrastructure.pdb
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\obj\Debug\netcoreapp3.1\EasyPayment.Api.csproj.CoreCompileInputs.cache
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\obj\Debug\netcoreapp3.1\EasyPayment.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Superdelight\source\repos\EasyPayment\EasyPayment\obj\Debug\netcoreapp3.1\EasyPayment.Api.MvcApplicationPartsAssemblyInfo.cache
