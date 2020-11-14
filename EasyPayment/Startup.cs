@@ -34,7 +34,7 @@ namespace EasyPayment
         {
             services.AddControllers();
             services.AddMediatR(typeof(RegisterAppCommand).GetTypeInfo().Assembly);
-            services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "EasyPayment Services", Version = "v1" }); });
+            services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "ErandPay", Version = "v1" }); });
             var conString = Configuration.GetValue<string>("DefaultConnection");
             services.AddTransient<IHttpClientHelper, HttpClientServices>();
             services.AddDbContext<IEasyPaymentDbContext, AppDbContext>(options => options.UseSqlServer(conString));

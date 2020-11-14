@@ -4,7 +4,14 @@ using System.Text;
 
 namespace EasyPyment.Common.Models.ResponseModels
 {
-    public class AccountPaymentResponse
+
+    public partial class AccountPaymentResponse
+    {
+        public string Status { get; set; }
+        public string Message { get; set; }
+        public AccountPaymentResponseData Data { get; set; }
+    }
+    public class AccountPaymentResponseData
     {
         public long id { get; set; }
         public string tx_ref { get; set; }
@@ -32,6 +39,34 @@ namespace EasyPyment.Common.Models.ResponseModels
 
     }
 
+    public class ValidateAccountResponse
+    {
+        public long Id { get; set; }
+        public string TxRef { get; set; }
+        public string FlwRef { get; set; }
+        public string DeviceFingerprint { get; set; }
+        public long Amount { get; set; }
+        public long ChargedAmount { get; set; }
+        public double AppFee { get; set; }
+        public long MerchantFee { get; set; }
+        public string ProcessorResponse { get; set; }
+        public string AuthModel { get; set; }
+        public string Currency { get; set; }
+        public string Ip { get; set; }
+        public string Narration { get; set; }
+        public string Status { get; set; }
+        public string AuthUrl { get; set; }
+        public string PaymentType { get; set; }
+        public string FraudStatus { get; set; }
+        public string ChargeType { get; set; }
+        public DateTimeOffset CreatedAt { get; set; }
+        public long AccountId { get; set; }
+        public CustomerDetails Customer { get; set; }
+        public CardDetails Card { get; set; }
+    }
+
+
+
     public class AccountDetails
     {
         public string account_number { get; set; }
@@ -48,6 +83,37 @@ namespace EasyPyment.Common.Models.ResponseModels
     {
         public string mode { get; set; }
         public string validate_instructions { get; set; }
+    }
+
+    public class VerifyAccountPaymentResponse
+    {
+        public string Status { get; set; }
+        public string Message { get; set; }
+        public AccountVerificationData Data { get; set; }
+    }
+
+    public class AccountVerificationData
+    {
+        public long Id { get; set; }
+        public string TxRef { get; set; }
+        public string FlwRef { get; set; }
+        public string DeviceFingerprint { get; set; }
+        public long Amount { get; set; }
+        public string Currency { get; set; }
+        public long ChargedAmount { get; set; }
+        public long AppFee { get; set; }
+        public long MerchantFee { get; set; }
+        public string ProcessorResponse { get; set; }
+        public string AuthModel { get; set; }
+        public string Ip { get; set; }
+        public string Narration { get; set; }
+        public string Status { get; set; }
+        public string PaymentType { get; set; }
+        public DateTimeOffset CreatedAt { get; set; }
+        public long AccountId { get; set; }
+        public long AmountSettled { get; set; }
+        public CardDetails Card { get; set; }
+        public CustomerDetails Customer { get; set; }
     }
 
     public class CardDetails

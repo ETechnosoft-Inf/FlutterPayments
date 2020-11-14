@@ -16,7 +16,7 @@ namespace EasyPayment.Domain.Entities
         public string PaymantKey { get; set; }
         public string PaymentChannel { get; set; }
         public string Email { get; set; }
-        public string Amount { get; set; }
+        public long Amount { get; set; }
         public DateTime PaymentDate { get; set; }
         public string PaymentCardId { get; set; }
         public string StatusMessage { get; set; }
